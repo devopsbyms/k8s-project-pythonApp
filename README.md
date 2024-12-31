@@ -1,1 +1,1 @@
-# k8s-project-pythonApp
+# k8s project Python Application deployment
